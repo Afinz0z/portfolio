@@ -28,6 +28,11 @@ svgList = {
 
 var myWorks = [
     {
+        title: "Contact",
+        content: "Phone: 9495960814 <br>Email: afnansafal@gmail.com",
+        source: "https://google.com"
+    },
+    {
         title: "News REST API",
         content: "Lorem Ipsum is simply and scrambled it unchanged. in the 1960s with the release of Lorem Ipsum passages, and more recently with desktop publis",
         source: "https://google.com"
@@ -42,11 +47,7 @@ var myWorks = [
         content: "Lorem Ipsum is simply and scrambled it unchanged. in the 1960s with the release of Lorem Ipsum passages, and more recently with desktop publis",
         source: "https://google.com"
     },
-    {
-        title: "Contacts",
-        content: "Phone: 9495960814 <br>Email: afnansafal@gmail.com",
-        source: "https://google.com"
-    }
+
 ]
 
 function createDiv(className) {
