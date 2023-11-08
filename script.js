@@ -43,8 +43,8 @@ var myWorks = [
         source: "https://google.com"
     },
     {
-        title: "ReScrApi",
-        content: "Lorem Ipsum is simply and scrambled it unchanged. in the 1960s with the release of Lorem Ipsum passages, and more recently with desktop publis",
+        title: "Contacts",
+        content: "Phone: 9495960814 <br>Email: afnansafal@gmail.com",
         source: "https://google.com"
     }
 ]
